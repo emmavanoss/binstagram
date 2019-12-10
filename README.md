@@ -9,7 +9,7 @@ It's a basic Instagram clone - more detailed instructions are [here](https://git
 
 Setup instructions and user stories are below.
 
-[!screenshot](https://github.com/emmavanoss/binstagram/blob/master/pictures/screenshot101219.png)
+![screenshot](https://github.com/emmavanoss/binstagram/blob/master/pictures/screenshot101219.png)
 
 ## Setup
 
